@@ -4,10 +4,7 @@
 
 + [Re:Coded](https://github.com/Recoded-Spark-Turkey-2022) Alumni
 + Currently specializing in Front-End Development
-+ You can reach me  through [LinkedIn](https://www.linkedin.com/in/selvi-ece-d-a65b37165/) <a href="[(https://www.linkedin.com/in/selvi-ece-d-a65b37165/)]">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
++ You can reach me  through [LinkedIn](https://www.linkedin.com/in/selvi-ece-d-a65b37165/) 
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
