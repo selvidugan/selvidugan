@@ -5,3 +5,4 @@
 + You can reach me  through [LinkedIn](https://www.linkedin.com/in/selvi-ece-d-a65b37165/)
 
 
+![selvidugan's github stats](https://github-readme-stats.vercel.app/api?username=selvidugan&hide=contribs,prs)
