@@ -6,3 +6,7 @@
 
 
 ![selvidugan's github stats](https://github-readme-stats.vercel.app/api?username=selvidugan&hide=contribs,prs)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selvidugan&layout=compact)](https://github.com/selvidugan/github-readme-stats)
