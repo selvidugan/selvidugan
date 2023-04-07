@@ -1,5 +1,4 @@
 ---
-### :woman_technologist: About Me :
 
 **Hello 🙌 I am Selvi Ece DUGAN**
 
@@ -25,7 +24,7 @@
   
 
 
-
+---
 
 
 ![selvidugan's github stats](https://github-readme-stats.vercel.app/api?username=selvidugan&hide=contribs,prs&show_icons=true&theme=radical)
