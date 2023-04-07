@@ -1,3 +1,6 @@
+---
+### :woman_technologist: About Me :
+
 **Hello 🙌 I am Selvi Ece DUGAN**
 
 + [Re:Coded](https://github.com/Recoded-Spark-Turkey-2022) Alumni
