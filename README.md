@@ -1,4 +1,3 @@
----
 
 **Hello 🙌 I am Selvi Ece DUGAN**
 
