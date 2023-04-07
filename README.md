@@ -1,13 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
---- 
+
 
 **Hello 🙌 I am Selvi Ece DUGAN**
 
 + [Re:Coded](https://github.com/Recoded-Spark-Turkey-2022) Alumni
 + Currently specializing in Front-End Development
-+ You can reach me  through [LinkedIn](https://www.linkedin.com/in/selvi-ece-d-a65b37165/)
++ You can reach me  through [LinkedIn](https://www.linkedin.com/in/selvi-ece-d-a65b37165/) <a href="[your-linkedin-URL](https://www.linkedin.com/in/selvi-ece-d-a65b37165/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
